@@ -1,0 +1,7 @@
+{
+  "name": "MyAppLukas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
